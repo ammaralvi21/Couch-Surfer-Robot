@@ -1,4 +1,4 @@
-# Robot-Crouch-Surfer-Car
+# Robot-Couch-Surfer-Car
 Embedded electronics systems engineering project.
 
 ![](Robot Car.gif)

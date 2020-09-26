@@ -1,0 +1,10 @@
+.\objects\util.o: UTIL.c
+.\objects\util.o: C:\Users\ammar\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h
+.\objects\util.o: .\RTE\_Target_1\RTE_Components.h
+.\objects\util.o: C:\Users\ammar\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm3.h
+.\objects\util.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\util.o: C:\Users\ammar\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\util.o: C:\Users\ammar\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\util.o: C:\Users\ammar\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\util.o: C:\Users\ammar\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h
+.\objects\util.o: GPIO.h

@@ -47,6 +47,10 @@ In order to conceptualize the process on how the robot would navigate the course
 
 ![me](https://github.com/ammaralvi21/Robot-Couch-Surfer-Car/blob/master/Images/Robot%20Navigation%20Flow%20Chart.png)
 
+# Project Credits
+Ammar Alvi
+Shannon D'Souza
+
 # Video Link
 https://www.youtube.com/watch?v=_aDb7OR65XA 
 

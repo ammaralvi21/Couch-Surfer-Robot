@@ -17,17 +17,18 @@ In order to uniquely sense white surfaces, we determined an infrared sensor woul
 To display the information gathered by the robot, we decided to use a Bluetooth serial monitor. An HC-05 module was selected to wireless transmit our Bluetooth data. The HC-05 has a UART serial interface that can be used to connect to the STM32 board.
 
 # Component quantity and cost
-Component Name                      Quantity  Cost ($) <br />
-DRV8833 Dual H-Bridge Motor Driver  x1        3.49 <br />
-HC-SR04 Ultrasonic Sensor           x3        5.59 <br />
-TCRT5000 IR Line Sensor             x1        1.99 <br />
-HC-05 Bluetooth Module              x1        13.93 <br />
-Perseids Robot Car 4WD with Motor   x1        22.99 <br />
-6 x AA Battery holder               X1        4.19 <br />
-8 inch Female/Male Jumpers 40pc     X1        5.95 <br />
-Ultrasonic Sensor Mounting Bracket  X3        4.17 <br />
+<pre>
+Component Name                      Quantity  Cost ($)
+DRV8833 Dual H-Bridge Motor Driver  x1        3.49 
+HC-SR04 Ultrasonic Sensor           x3        5.59 
+TCRT5000 IR Line Sensor             x1        1.99 
+HC-05 Bluetooth Module              x1        13.93 
+Perseids Robot Car 4WD with Motor   x1        22.99 
+6 x AA Battery holder               X1        4.19 
+8 inch Female/Male Jumpers 40pc     X1        5.95 
+Ultrasonic Sensor Mounting Bracket  X3        4.17 
 Total:                                        62.30
-
+</pre>
 # High-Level Block Diagram
 A high level block diagram for the connection of the system is shown below.
 

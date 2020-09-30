@@ -1,4 +1,4 @@
-# Robot-Couch-Surfer-Car
+# Couch-Surfer-Robot-Car
 Embedded electronics systems engineering project.
 
 ![me](https://github.com/ammaralvi21/Robot-Couch-Surfer-Car/blob/master/Images/Robot%20Car.gif)
